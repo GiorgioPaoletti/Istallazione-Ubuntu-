@@ -1,0 +1,35 @@
+﻿#InSTALLAZIONE GNU-LINUX
+
+##Installazione Ubuntu
+
+###Obiettivo
+
+*Installazione di Ubuntu su fisso, dualboot, tramite Dvd.
+*Istallare Ubuntu 16.04 in dualboot con Windos.
+TRovo ducumentazione ufficiale sul [sito ufficiale italiano] (http://www.ubuntu-it.org/download)
+###Passaggi essenziali per l'istallazione
+
+1.scaricare il sistema operativo dal [sito ufficiale](http://www.ubuntu-it.org/download);
+2.decidere il sistema di istallazione:
+	*masterizare Dvd
+		Utilizzare un software di masterizzazione con supporto file ISO, esempio [Free ISO Burner](http://www.freeisoburner.com/) ;
+	*copiare il sistema su chiavetta USB
+		copiare Ubuntu su chiavetta tramite l'aplicazione [UnetBootin](https://unetbootin.github.io/);
+3.Impostare il sistema di Boot all'avvio del computer, così da impostare la priorità
+	*Dvd
+	*USB
+4.Istallazione:
+	*Selezione la lingua e avvio l'opzione di prova di Ubuntu;
+	*Avviare l'istallazione  di Ubuntu;
+	*Spuntare l'opzione per avviare il controllo degli aggiornamenti;
+	*Impostare:
+		Istallazione Ubuntu affiancata un sistema già presente;
+		Sostituzione del sistema gia presente con Ubuntu;
+	*Impostare il fuso Orario;
+	*Impostare lingua tastiera;
+	*Impostare nome utente, password, nome computer;
+5.Al termine della procedura riavviare il computer ed estrarre il Dvd o la chiavetta USB;
+6.Al riavvio del computer verrà avviato il dualboot in cui si potrà selezionare il sistema desiderato.
+	
+	
+		
